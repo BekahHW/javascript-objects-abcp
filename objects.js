@@ -1,7 +1,7 @@
-var playlist = {'Christina': 'Stronger'}
+var playlist = {'Phil Ochs': 'Stronger'}
 
 function updatePlaylist (playlist, artistName, songTitle) {
-  playlist.Christina = 'Stronger';
+  playlist.Phil Ochs = 'Stronger';
   return playlist
 }
 
